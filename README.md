@@ -38,7 +38,7 @@ df.head()
 
 If you are a budding data scientist looking to learn the popular pandas library, or a Python developer looking to step into the world of data analysis, this book is the ideal resource you need to get started. Some programming experience in Python will be helpful to get the most out of this course	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-4).
 
 ### Software and Hardware List
 
